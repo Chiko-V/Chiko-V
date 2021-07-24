@@ -11,6 +11,7 @@ Hi there 👋
 ---Education---
 
 🔭  Sakarya University --- Bachelor degree --- Business Administration 
+<br>
 🔭  İstanbul University --- Master's degree --- Management İnformation Systems
 
 
