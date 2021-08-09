@@ -1,4 +1,5 @@
-Hi there 👋😎
+<h4>Front-End Developer </h4>
+<h4> Hi there 👋😎 </h4>
 
 - 🔭 I'm currently working on -- Web development
 - 🌱 I'm currently learning -- HTML, CSS, JavaScript, Vue
