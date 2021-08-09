@@ -1,5 +1,5 @@
-<h4>Front-End Developer </h4>
-<h4> Hi there 👋😎 </h4>
+<h3 style="justify-content:center">Front-End Developer 👩‍💻👩‍💻</h3>
+<h3 style="justify-content:center"> Hi there 👋😎 </h3>
 
 - 🔭 I'm currently working on -- Web development
 - 🌱 I'm currently learning -- HTML, CSS, JavaScript, Vue
